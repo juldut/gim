@@ -1,0 +1,2 @@
+# gim
+Grails Inventory Management
